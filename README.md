@@ -22,5 +22,6 @@ yarn run lint
 quasar build
 ```
 
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+### Screenshots
+<img src="https://i.imgur.com/3liAth3.png" width="400">
+<img src="https://i.imgur.com/mQghAot.png" width="400">
