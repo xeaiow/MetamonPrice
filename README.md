@@ -1,6 +1,6 @@
-# Metamon Pricing (metamon)
+# Metamon Pricing
 
-metamon
+一個能查看最新上架元獸的列表
 
 ## Install the dependencies
 ```bash
